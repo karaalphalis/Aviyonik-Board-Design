@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\PCB\Flight_Controller_Board_Design\Flight_Controller_Board_Design.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=flight_controller_board_design-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=flight_controller_board_design-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_LY-1_Blind_Vias|DrillFile=flight_controller_board_design-roundholes.tx1|DrillLayers=gtl,g1
+LayersSetName=Top_LY-2_Blind_Vias|DrillFile=flight_controller_board_design-roundholes.tx2|DrillLayers=gtl,g1,g2

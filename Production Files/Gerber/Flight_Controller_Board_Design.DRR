@@ -1,0 +1,39 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Flight_Controller_Board_Design.PcbDoc   10.11.2024  20:13:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Flight_Controller_Board_Design-RoundHoles.TXT
+ASCII SlotHoles File : Flight_Controller_Board_Design-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             223       PTH        0.00inch (0.00mm)
+T2      15mil (0.381mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T3      17mil (0.432mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T4      24mil (0.61mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T5      28mil (0.711mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T6      39mil (0.991mm)                                           Round             29        PTH        0.00inch (0.00mm)
+T7      43mil (1.092mm)                                           Round             3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              270
+Layer Pair : Top Layer to LY-1
+ASCII RoundHoles File : Flight_Controller_Board_Design-RoundHoles.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             31        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              31
+Layer Pair : Top Layer to LY-2
+ASCII RoundHoles File : Flight_Controller_Board_Design-RoundHoles.TX2
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             21        PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              21
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              322
+
+Total Processing Time (hh:mm:ss) : 00:00:00

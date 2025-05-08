@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Flight_Controller_Board_Design.GBR   10.11.2024  20:12:45
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 LY-1                                    
+.G2                 LY-2                                    
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+.GD2                Drill Drawing                           
+.GD3                Drill Drawing                           
+.GG1                Drill Guide                             
+.GG2                Drill Guide                             
+.GG3                Drill Guide                             
+------------------------------------------------------------------------------------------

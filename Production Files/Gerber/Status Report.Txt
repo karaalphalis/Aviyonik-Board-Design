@@ -1,0 +1,19 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 20:13:19 On 10.11.2024
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Flight_Controller_Board_Design.PcbDoc]
+   Generated File[Flight_Controller_Board_Design-RoundHoles.TXT]
+   Generated File[Flight_Controller_Board_Design-SlotHoles.TXT]
+   Generated File[Flight_Controller_Board_Design-RoundHoles.TX1]
+   Generated File[Flight_Controller_Board_Design-RoundHoles.TX2]
+   Generated File[Flight_Controller_Board_Design.LDP]
+   Generated File[Flight_Controller_Board_Design.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 20:13:21 On 10.11.2024
